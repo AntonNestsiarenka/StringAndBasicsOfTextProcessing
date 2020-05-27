@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/StringAndBasicsOfNextProcessing.iml" filepath="$PROJECT_DIR$/StringAndBasicsOfNextProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringAndBasicsOfTextProcessing.iml" filepath="$PROJECT_DIR$/StringAndBasicsOfTextProcessing.iml" />
     </modules>
   </component>
 </project>
