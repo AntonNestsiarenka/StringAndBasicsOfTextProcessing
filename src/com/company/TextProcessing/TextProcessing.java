@@ -1,4 +1,4 @@
-package com.company;
+package com.company.TextProcessing;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -147,7 +147,7 @@ public class TextProcessing {
                         allWordsInSentence.set(j, allWordsInSentence.get(j + 1));
                         allWordsInSentence.set(j + 1, temp2);
                     }
-                    else if (numbersOfOcurrences.get(j) == numbersOfOcurrences.get(j + 1))
+                    else if (numbersOfOcurrences.get(j).equals(numbersOfOcurrences.get(j + 1)))
                     {
                         if (allWordsInSentence.get(j).toLowerCase().compareTo(allWordsInSentence.get(j + 1).toLowerCase()) > 0)
                         {

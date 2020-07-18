@@ -2,6 +2,8 @@ package Utils;
 
 public class OtherUtils {
 
+    /* Различные методы для работы со строками. */
+
     public static boolean isCapitalLetter(char letter)
     {
         // Является ли символ большой буквой.

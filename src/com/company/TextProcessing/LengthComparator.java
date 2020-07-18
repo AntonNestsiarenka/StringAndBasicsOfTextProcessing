@@ -1,4 +1,4 @@
-package com.company;
+package com.company.TextProcessing;
 
 import java.util.Comparator;
 

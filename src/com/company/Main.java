@@ -1,6 +1,9 @@
 package com.company;
 
 import Utils.Pair;
+import com.company.AnalyzerXml.AnalyzerXmlDocument;
+import com.company.TextProcessing.TextProcessing;
+
 import java.io.IOException;
 
 import static Utils.CharArrayUtils.*;

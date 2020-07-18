@@ -3,6 +3,8 @@ import static Utils.OtherUtils.*;
 
 public class CharArrayUtils {
 
+    /* Различные методы для работы с массивами char-ов. */
+
     public static char[] resize1DArray(char[] array, int n)
     {
         /* Изменение размера одномерного массива char - ов на +-n от текущего размера с последующим копированием
